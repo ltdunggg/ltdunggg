@@ -1,5 +1,5 @@
 <h1 align="center">Tôi là: Lương Tiến Dũng</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Ha Noi- Viet Nam</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
